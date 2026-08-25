@@ -1,0 +1,6 @@
+{
+  "name": "NAMA LIVING - Japandi Furniture & Interior Studio",
+  "description": "Portofolio mebel kayu & studio interior Japandi warm wood dengan katalog produk, portofolio proyek hunian, kalkulator estimasi custom, dan admin studio manajemen konten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
