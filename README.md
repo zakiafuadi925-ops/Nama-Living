@@ -85,11 +85,6 @@ Nama-Living/
    ```bash
    cp .env.example .env.local
    ```
-   Isi kunci API Gemini kamu di `.env.local`:
-   ```env
-   GEMINI_API_KEY="AIzaSyYourActualGeminiApiKeyHere"
-   ```
-   *(Kunci API bisa didapatkan secara gratis di [Google AI Studio](https://aistudio.google.com/))*
 
 4. **Jalankan Server Development**
    ```bash
